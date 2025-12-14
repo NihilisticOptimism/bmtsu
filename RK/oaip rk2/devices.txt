@@ -1,0 +1,9 @@
+Smartphone;Apple;iPhone 13;999;iOS-128GB;Mail|Maps|Music
+Smartphone;Apple;iPhone 13 Pro;1099;iOS-256GB;Mail|Maps|Safari
+Smartphone;Samsung;Galaxy S22;850;Android-256GB;Gmail|Chrome|YouTube
+Smartphone;Samsung;Galaxy S21;750;Android-128GB;Gmail|Drive
+Smartphone;OnePlus;9 Pro;700;Android-256GB;Gmail|Music|Photos
+Smartphone;Google;Pixel 6;650;Android-128GB;Maps|Photos
+Laptop;Dell;XPS 15;1200;15.6-86Wh;Office|Chrome|Zoom
+Laptop;Dell;Inspiron 14;900;14.0-60Wh;Word|Excel
+Laptop;HP;Spectre x360;1300;15.6-80Wh;Office|Photoshop
